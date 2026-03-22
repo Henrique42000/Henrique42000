@@ -6,7 +6,6 @@
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Henrique42000&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -75,12 +74,6 @@
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Henrique42000&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🏆 Trophies
@@ -88,26 +81,6 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Henrique42000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Henrique42000&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Henrique42000/Henrique42000/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
