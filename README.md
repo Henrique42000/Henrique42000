@@ -6,6 +6,7 @@
 
 <br/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Henrique42000&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Henrique42000)
 
 </div>
 
