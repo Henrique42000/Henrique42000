@@ -1,35 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Henrique%20Santos&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=60&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Henrique%20Santos&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20&descColor=e0e0e0" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Full-Stack+Developer;Python+%7C+C+%7C+C%2B%2B+%7C+C%23+enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Full-Stack+Developer;Building+solutions+with+code+%F0%9F%9A%80;Always+learning%2C+always+improving)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Henrique42000&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Henrique42000)
+[![Profile Views](https://komarev.com/ghpvc/?username=Henrique42000&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Henrique42000)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```json
-{
-  "name": "Henrique Santos",
-  "role": "Developer",
-  "stack": {
-    "languages": ["Python", "C", "C++", "C#", "TypeScript"],
-    "frontend":  ["React", "Next.js", "Tailwind CSS"],
-    "backend":   ["Node.js", "Express"],
-    "database":  ["MySQL", "Firebase"]
-  },
-  "highlights": ["UX/UI", "Scalable Code", "Clean Architecture"],
-  "contact": {
-    "email": "ohenrique.sds@gmail.com"
-  },
-  "status": "Always learning. Always building. 🚀"
-}
+```javascript
+const henrique = {
+  pronouns: "He" | "Him",
+  code: ["Python", "C", "C++", "C#", "TypeScript", "JavaScript"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express"],
+  database: ["MySQL", "Firebase"],
+  focus: "Clean Architecture & Scalable Systems",
+  status: "Building the future, one line of code at a time 🚀"
+};
 ```
 
 ---
@@ -38,69 +32,80 @@
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,ts,js&perline=6" />
+</a>
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br><br>
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-444?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mysql,firebase&perline=7" />
+</a>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br><br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma&perline=6" />
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique42000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique42000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrique42000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique42000&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" height="190" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique42000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="190" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Henrique42000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Henrique42000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
+  </a>
 </div>
 
 ---
 
-## 📬 Contact
+## 🐍 Contribution Graph
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ohenrique.sds@gmail.com)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrique42000/Henrique42000/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrique42000/Henrique42000/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Henrique42000/Henrique42000/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
+  <i>* Note: A animação da cobrinha (snake) requer a configuração de uma GitHub Action no seu repositório. *</i>
 </div>
 
 ---
 
+## 📬 Get In Touch
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+<a href="mailto:ohenrique.sds@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<!-- Adicione seu link do LinkedIn abaixo substituindo YOUR_LINKEDIN_USERNAME -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-**⭐ If you like what you see, consider leaving a star!**
+</div>
 
+<div align="center">
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
 </div>
