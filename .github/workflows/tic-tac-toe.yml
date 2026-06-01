@@ -1,0 +1,19 @@
+name: Tic-Taction-Toe
+on:
+  issue_comment:
+    types: [created]
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Tic Taction Toe
+        uses: zzzk1/tic-taction-toe@v1.0.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
