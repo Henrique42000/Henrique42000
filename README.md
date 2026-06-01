@@ -51,7 +51,7 @@
 
 ### ⚔️ Play Tic-Tac-Toe with my Bot!
 Want to challenge my repository bot to a game of Tic-Tac-Toe?
-**[Click Here to Start a Game!](https://github.com/Henrique42000/Henrique42000/issues/new?title=play%20tic-taction-toe&body=Just%20click%20submit%20new%20issue%20to%20start%20the%20game!)**
+**[Click Here to Start a Game!](https://github.com/Henrique42000/Henrique42000/issues/new?title=Play%20Tic-Tac-Toe&body=play%20tic-taction-toe)**
 
 ### 🐍 Watch my Code Snake
 The snake automatically eats my contributions every 12 hours!
